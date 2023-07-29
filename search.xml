@@ -21,7 +21,7 @@
       <link href="/posts/38c422a2.html"/>
       <url>/posts/38c422a2.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>这是我的第一个博客，之后我会使用这个博客用于实现自己的一些想法</p>]]></content>
       
       
       
@@ -37,7 +37,29 @@
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<p>this is </p>]]></content>
+        <content type="html"><![CDATA[<p>这是一个由一名大三本科生闲来无事搞得一篇博客网站，用于学习hexo相关知识</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>archives</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[<p>用来记录自己的大事记</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -66,11 +88,44 @@
     
     
     <entry>
-      <title>archives</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>封神系列</title>
+      <link href="/movies/fengshen.html"/>
+      <url>/movies/fengshen.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="封神系列"><a href="#封神系列" class="headerlink" title="封神系列"></a>封神系列</h1><h2 id="封神第一部：朝歌风云"><a href="#封神第一部：朝歌风云" class="headerlink" title="封神第一部：朝歌风云"></a>封神第一部：朝歌风云</h2><p>2023-7-28<br>今天看了封神第一部，本来应该是在电影院采访应的，可是我和威桑迫不及待的就使用盗版网站看了起来。</p><p>这部影片讲述了商王殷寿与狐妖妲己勾结，暴虐无道，引发天谴。昆仑仙人姜子牙携“封神榜”下山，寻找天下共主，以救苍生。西伯侯之子姬发逐渐发现殷寿的本来面目，反出朝歌。</p><p>一开始，影片以冀州侯苏护叛乱，苏护之子被杀为开头，引出了商超末年，天下大乱的情况。<br><img src="https://s2.loli.net/2023/07/29/GL4asV83KpZJCyd.png" alt="fengshen1-1.png"><br>后来，殷寿灭了苏护，无意中，他的血解除了狐狸精的封印，并遇见了被狐狸精附体的苏妲己。此后殷寿便和苏妲己勾结，最终弑父登上帝王宝座，允诺焚身以免天谴。</p><p>而昆仑山众神希望能够拯救苍生，于是姜子牙临危授命，携带封神榜和弟子杨戬，哪吒一同前往大商寻求天下共主，当他上朝拜见殷寿时，发现殷寿滥杀无辜，不可将此宝物交于其手。<br><img src="https://s2.loli.net/2023/07/29/jZJpT1Cgx3O9KmU.png" alt="fengshen1-2.png"><br>后来，姜子牙一路逃跑，在逃跑路上遇到了西伯侯姬昌，希望能够立殷发为天下共主，拯救苍生，可是被姬发听到了，四大伯侯进京被俘，在殷寿的诱使下，东伯侯，北伯候均被其子所杀，而南伯侯及其子均被杀。西伯侯姬昌由姬发求情，最终被打入地牢。</p><p>殷郊在无意中发现了狐狸精，为杀除狐狸精，其带剑进入了姬昌的寝室，希望能够杀掉苏妲己，可惜被殷寿阻止，还刺进了殷寿的肩膀，以弑君未遂遭到追捕。后来，姬发因掩护殷郊被打，其哥哥伯邑考恰巧前来京城解救。其哥哥伯邑考向殷寿求情，用其命换其父姬昌之命。</p><p>后来姬昌由雷震子保护，顺利回到了西岐。</p><p>京城已然政治大变，殷寿焚烧祖碑，然后拒绝承诺王叔的建言保护狐妖苏妲己，最终引发天谴。殷寿杀了殷郊，然后命令姬发弑其父，并说明传位于姬发。可是姬发并没有弑其父，而是杀了殷寿，最终，其逃离京城，坐上白雪骑飞奔回西岐。<br><img src="https://s2.loli.net/2023/07/29/QjVu4FUXnqR67TE.png" alt="fengshen1-3.png"></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>movies</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[<p>用来记录自己喜欢的电影</p><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://s2.loli.net/2023/07/29/yvjNrGp67UQFg19.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封神</div>  <p>根据封神演义改编的系列电影</p>  <a href='/movies/fengshen'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://s2.loli.net/2023/07/29/LpRNXg6nGfyOTSF.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">蜡笔小新</div>  <p>蜡笔小新大电影</p>  <a href='/movies/labixiaoxin'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://s2.loli.net/2023/07/29/l9831Nr7abt5UBM.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">蜘蛛侠</div>  <p>蜘蛛侠系列</p>  <a href='/movies/zhizhuxia'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>蜡笔小新系列</title>
+      <link href="/movies/labixiaoxin.html"/>
+      <url>/movies/labixiaoxin.html</url>
+      
+        <content type="html"><![CDATA[<p>这里是蜡笔小新系列</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>蜘蛛侠系列</title>
+      <link href="/movies/zhizhuxia.html"/>
+      <url>/movies/zhizhuxia.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="蜘蛛侠系列"><a href="#蜘蛛侠系列" class="headerlink" title="蜘蛛侠系列"></a>蜘蛛侠系列</h1><h2 id="蜘蛛侠：纵横宇宙"><a href="#蜘蛛侠：纵横宇宙" class="headerlink" title="蜘蛛侠：纵横宇宙"></a>蜘蛛侠：纵横宇宙</h2><p>2023-7-1<br>这部蜘蛛侠巨著是我在电影院看的，当时我们刚好验收完模式识别课设，趁着兴致，511寝室大集结，前往光谷影院观看了这部影片。<br><img src="https://s2.loli.net/2023/07/29/6WSONnPlqVjCm1D.png" alt="zhizhuxia1-1.png"><br>不得不说，这部影片的在剧情，美术以及主题方面都有很深刻的造诣。</p><p>首先说主题，“我命由我不由天”的主题其实在很多影片中都有体现，就比如说之前我看的哪吒之魔童降世中，哪吒的一句，我命由我不由天，是魔是仙，我说了算。在他本为魔的情况下，却为命运抗争到底，挡住了元始天尊施下的天劫，同事在龙王三太子敖丙的攻击下，拯救了整个陈塘关，证明了自己。</p><p>然而本部蜘蛛侠中表达该类似的主题时，并没有采用逆天改命的方式，而是结合了蜘蛛侠的宿命论。在领袖蜘蛛侠的述说下，似乎每个蜘蛛侠的宿命都是需要牺牲掉警官从而能够维持蜘蛛侠社区的稳定，然而迈尔斯莫拉莱斯并没有坐以待毙，而是拼尽全力回到生活的地方，并希望能从斑点那里拯救自己的警官父亲。</p><p>本篇的色彩也非常绚丽，剧情也很波折。尤其是对于女蜘蛛侠格纹的塑造。在格纹的朋友死了后得到父亲的安慰时，格纹周围的色彩是暖色调，而在格纹失去父亲的信任后，格纹周围的色彩是冷色调，形成非常明显的对比，可以看出，格纹周围的色彩是随着格纹的心情变化而变化的。<br><img src="https://s2.loli.net/2023/07/29/gU2J8LlnE7mcHsi.png" alt="zhizhuxia1-2.png"><br>在剧情方面，这部影片也非常精彩。主人公迈尔斯遇到了他自己创造出的敌人斑点，然后格纹接受任务来到迈尔斯的世界阻止斑点的行为。可是由于和迈尔斯的交谈，耽误了任务的推进，最终让斑点得逞，破坏了普林斯顿的离子对撞机。失望的格纹受到杰西卡的指责，并授命前往印度阻止斑点的下一步行动。迈尔斯静静地听着杰西卡数落格纹，然而他感受到他也必须前往印度和格纹一起作战。在印度作战时遇到了当地的蜘蛛侠，可是他们最终还是没能阻止了斑点破坏离子对撞机，斑点获得能量后，扬言要毁掉迈尔斯的未来。离子对撞机爆炸，大楼开始坍塌，迈尔斯在保护平民的过程中破坏了蜘蛛侠的组织网，他于是被带到总部，接受领袖蜘蛛侠的软禁。可是，他并没有上当，在百蛛大战的过程中，他逃离了总部，可是一不小心穿越到了43号宇宙，在这里，他遇到了另一个扮演徘徊者的迈尔斯。<br><img src="https://s2.loli.net/2023/07/29/TICuQiVfYNb96k7.png" alt="zhizhuxia1-3.png"><br>可以说，这部索尼精心打造的巨片让我看完后意犹未尽，有很大可能，其会被评为本年度最佳奥斯卡动画大片。</p><h2 id="蜘蛛侠：平行宇宙"><a href="#蜘蛛侠：平行宇宙" class="headerlink" title="蜘蛛侠：平行宇宙"></a>蜘蛛侠：平行宇宙</h2><p>2023-7-2<br>由于一开始看纵横宇宙时剧情有点懵，后来听说还有第一部，我看的是第二部，于是，我慕名前往盗版网站看第一部，也就是这部平行宇宙。<br><img src="https://s2.loli.net/2023/07/29/l9831Nr7abt5UBM.png" alt="zhizhuxia2"></p>]]></content>
       
     </entry>
     
@@ -81,18 +136,7 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>用来记录自己喜欢的音乐</p>]]></content>
       
     </entry>
     
